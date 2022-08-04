@@ -4,4 +4,5 @@ export const refs = {
   oneHourRef: document.querySelector('.hours-1'),
   fiveMinutesRef: document.querySelector('.minutes-5'),
   oneMinuteRef: document.querySelector('.minutes-1'),
+  timeRef: document.querySelector('.time'),
 };
